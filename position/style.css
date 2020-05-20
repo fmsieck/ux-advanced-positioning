@@ -1,1 +1,18 @@
 /* Add your CSS Below */
+.one-bee {
+  position: relative;
+  left: 25px;
+  bottom: 25px;
+}
+
+.two :nth-child(3) {
+  position: absolute;
+  left: 232px;
+  bottom: 256px;
+}
+
+.three :nth-of-type(1) {
+  position: fixed;
+  left: 84%;
+  bottom: 11%;
+}
